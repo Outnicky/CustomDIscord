@@ -1,0 +1,14 @@
+[class*="avatar"],
+[class*="Avatar"],
+img[class*="avatar"] {
+    display: none !important;
+}
+[class*="banner"] {
+    display: none !important;
+}
+[class*="badge"] {
+    display: none !important;
+}
+[class*="decoration"] {
+    display: none !important;
+}
